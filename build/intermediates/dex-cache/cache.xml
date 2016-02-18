@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/yury/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/home/yury/Downloads/TestTaskApp/app/build/intermediates/pre-dexed/release/eventbus-3.0.0-f2f10742d9ba59e47ef4d61712abc44852686d4e.jar" />
+    </item>
+    <item
+        jar="/home/yury/Downloads/TestTaskApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/yury/Downloads/TestTaskApp/app/build/intermediates/pre-dexed/release/classes-eaa1387c127ca2e37ff3e0d8a8e4ea3383def71b.jar" />
+    </item>
+    <item
+        jar="/home/yury/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/home/yury/Downloads/TestTaskApp/app/build/intermediates/pre-dexed/release/butterknife-7.0.1-c87816cad2795e2f02b101236f5caa662ac1010c.jar" />
+    </item>
+    <item
+        jar="/home/yury/Downloads/TestTaskApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/yury/Downloads/TestTaskApp/app/build/intermediates/pre-dexed/release/classes-94dafde73e72204fa1e3835e999ceb465ee6b02f.jar" />
+    </item>
+    <item
+        jar="/home/yury/Downloads/TestTaskApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/yury/Downloads/TestTaskApp/app/build/intermediates/pre-dexed/release/internal_impl-23.1.1-d96a81ae4bc3fbdb6a565a8233558652c21c2b97.jar" />
+    </item>
+    <item
+        jar="/home/yury/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/yury/Downloads/TestTaskApp/app/build/intermediates/pre-dexed/release/support-annotations-23.1.1-bde905b1bb3120d4abc320c478b1d15b07fad4ea.jar" />
+    </item>
+    <item
+        jar="/home/yury/Downloads/TestTaskApp/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/yury/Downloads/TestTaskApp/app/build/intermediates/pre-dexed/release/classes-da1406729b1eac732522fbabb735690c1a0eb61d.jar" />
+    </item>
+    <item
+        jar="/home/yury/Downloads/TestTaskApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/yury/Downloads/TestTaskApp/app/build/intermediates/pre-dexed/release/classes-ef5ef6760900340614e9d8ea074292b052e740a9.jar" />
+    </item>
+    <item
+        jar="/home/yury/Downloads/TestTaskApp/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r1.5.5/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="804ea66f7e6e7351ca8058f22a4604b0f8ff642d">
+        <dex dex="/home/yury/Downloads/TestTaskApp/app/build/intermediates/pre-dexed/release/classes-b0a70078a3d5d98e88266665650c7888211de3a2.jar" />
+    </item>
+    <item
+        jar="/home/yury/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/home/yury/Downloads/TestTaskApp/app/build/intermediates/pre-dexed/release/gson-2.6.1-b2048713345a6f6d569b6880b81b82fe9da83c3a.jar" />
+    </item>
+    <item
+        jar="/home/yury/Downloads/TestTaskApp/app/build/intermediates/exploded-aar/com.vk/androidsdk/1.6.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a19b5438a3697cc8fc817253f43bebfc1967145f">
+        <dex dex="/home/yury/Downloads/TestTaskApp/app/build/intermediates/pre-dexed/release/classes-35306d32c2610ceae8c6544ee7aadd8a80700360.jar" />
+    </item>
+
+</items>

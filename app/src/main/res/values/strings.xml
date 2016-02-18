@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestTaskApp</string>
+    <integer name="com_vk_sdk_AppId">5297561</integer>
+</resources>
